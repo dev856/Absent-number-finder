@@ -7,3 +7,6 @@ filename variable contains that file which has list of all students. We have to 
 filename1 variable contains file which has attendance of particular date. You have to provide this file when you want to find the absent numbers.
 you have to give the name of file which you are going to provide.
 you will recieve the output in the form of text file which contains all the absent numbers.
+
+
+I will working on this and try to add some GUI.
